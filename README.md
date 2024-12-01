@@ -116,7 +116,7 @@ Once both the frontend and backend are running, you can access the application a
 
 ### Endpoints
 
-#### 1. `GET /feedback/`
+### 1. `GET /feedback/`
 - **Description**: Retrieve feedback for a specific video or user.
 - **Response**: Returns feedback data, including analysis on body language, NLP score, and suggestions for improvement.
 - **Example Response**:
@@ -129,9 +129,9 @@ Once both the frontend and backend are running, you can access the application a
       "nlp": "Improve your clarity and confidence.",
       "body_language": "Maintain eye contact throughout the response."
     }
-  }
+    }
 
-  #### 1. `GET /videos/`
+#### 2. `GET /videos/`
 - **Description**: Retrieve a list of all uploaded videos.
 - **Response**: Returns metadata about each video, such as the video ID, user ID, and upload date.
 - **Example Response**:
@@ -145,10 +145,10 @@ Once both the frontend and backend are running, you can access the application a
     }
   }
 
-  #### 1. `GET /analyze/<int:video_id>/`
+#### 3. `GET /analyze/<int:video_id>/`
 - **Description**: Analyze a specific video and generate feedback using AI (NLP and facial recognition).
 
-### 1. `GET /upload_video/`
+### 4. `GET /upload_video/`
 - **Description**: Upload a video for analysis. The video will be processed and stored in the system.
 
 # Running Tests
