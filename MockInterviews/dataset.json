@@ -1,0 +1,58 @@
+[
+    {
+        "prompt": "Confidence Score: 0.80\nEye Contact: 75%\nPosture Score: 85%\nFacial Expressions: Positive\n\nProvide detailed feedback.",
+        "response": "Your confidence was good, but maintaining consistent eye contact could improve your engagement with the interviewer. Your posture was excellent, but work on adding more variation to your facial expressions to convey enthusiasm."
+    },
+    {
+        "prompt": "Confidence Score: 0.50\nEye Contact: 60%\nPosture Score: 70%\nFacial Expressions: Neutral\n\nProvide detailed feedback.",
+        "response": "You appeared hesitant, which affected your confidence score. Improve your eye contact to establish better rapport with the interviewer. Your posture needs improvement to convey confidence, and consider using facial expressions to show more interest."
+    },
+    {
+        "prompt": "Confidence Score: 0.90\nEye Contact: 85%\nPosture Score: 80%\nFacial Expressions: Engaging\n\nProvide detailed feedback.",
+        "response": "Your confidence is excellent, and you maintained good eye contact, which enhances engagement. Consider improving your posture slightly to exude more confidence, and maintain the engaging facial expressions."
+    },
+    {
+        "prompt": "Confidence Score: 0.75\nEye Contact: 60%\nPosture Score: 70%\nFacial Expressions: Neutral\n\nProvide detailed feedback.",
+        "response": "Your confidence could be improved by maintaining better posture and more consistent eye contact. Neutral facial expressions make it harder to convey enthusiasm—try adding more positive expressions."
+    },
+    {
+        "prompt": "Confidence Score: 0.95\nEye Contact: 90%\nPosture Score: 88%\nFacial Expressions: Positive\n\nProvide detailed feedback.",
+        "response": "You demonstrated excellent confidence and maintained great eye contact, which made your delivery engaging. Your posture was solid, and your positive facial expressions added warmth to your interaction. Keep it up!"
+    },
+    {
+        "prompt": "Confidence Score: 0.60\nEye Contact: 70%\nPosture Score: 85%\nFacial Expressions: Neutral\n\nProvide detailed feedback.",
+        "response": "Your posture is strong, which is a great foundation for projecting confidence. However, increasing your confidence and maintaining consistent eye contact can significantly improve engagement. Neutral facial expressions may come across as disinterest—try adding a smile or more animated expressions."
+    },
+    {
+        "prompt": "Confidence Score: 0.80\nEye Contact: 75%\nPosture Score: 78%\nFacial Expressions: Positive\n\nProvide detailed feedback.",
+        "response": "Your confidence is solid, and your positive facial expressions are a strong asset. To enhance your performance, focus on maintaining better eye contact and ensuring that your posture conveys authority."
+    },
+    {
+        "prompt": "Confidence Score: 0.92\nEye Contact: 88%\nPosture Score: 90%\nFacial Expressions: Positive and Natural\n\nProvide detailed feedback.",
+        "response": "You displayed excellent communication skills! Your natural confidence, strong eye contact, and open posture created an engaging and trustworthy presence. Keep leveraging these strengths for an impactful delivery."
+    },
+    {
+        "prompt": "Confidence Score: 0.70\nEye Contact: 65%\nPosture Score: 72%\nFacial Expressions: Neutral\n\nProvide detailed feedback.",
+        "response": "Your performance could benefit from more consistent eye contact and a more confident posture. Adding energy to your facial expressions would also enhance your ability to connect with your audience."
+    },
+    {
+        "prompt": "Confidence Score: 0.50\nEye Contact: 60%\nPosture Score: 65%\nFacial Expressions: Limited\n\nProvide detailed feedback.",
+        "response": "You appear a bit reserved, which may affect how others perceive your confidence. Work on maintaining eye contact and improving your posture to project more authority. Adding variation to your facial expressions can also make you seem more approachable."
+    },
+    {
+        "prompt": "Confidence Score: 0.88\nEye Contact: 92%\nPosture Score: 89%\nFacial Expressions: Friendly\n\nProvide detailed feedback.",
+        "response": "Your nonverbal communication is outstanding! You displayed a friendly demeanor with confident posture and excellent eye contact. Keep building on these skills for an even greater impact."
+    },
+    {
+        "prompt": "Confidence Score: 0.85\nEye Contact: 70%\nPosture Score: 82%\nFacial Expressions: Slightly Tense\n\nProvide detailed feedback.",
+        "response": "You have great potential, but your slightly tense expressions might indicate stress. Focus on maintaining a calm demeanor, and work on sustaining consistent eye contact to ensure better engagement."
+    },
+    {
+        "prompt": "Confidence Score: 0.77\nEye Contact: 88%\nPosture Score: 75%\nFacial Expressions: Neutral\n\nProvide detailed feedback.",
+        "response": "Your strong eye contact is an excellent foundation for engagement. To enhance your performance further, work on refining your posture and adding more energy to your facial expressions to convey enthusiasm."
+    },
+    {
+        "prompt": "Confidence Score: 0.55\nEye Contact: 50%\nPosture Score: 60%\nFacial Expressions: Nervous\n\nProvide detailed feedback.",
+        "response": "Nervousness seems to be affecting your performance. Try practicing relaxation techniques to improve your confidence. Strengthen your posture and maintain better eye contact to create a more authoritative presence."
+    }
+]
