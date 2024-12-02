@@ -16,6 +16,7 @@ import mediapipe as mp
 #import openai
 from transformers import pipeline
 import json
+import environ
 
 
 nlp = spacy.load("en_core_web_sm")
@@ -325,13 +326,15 @@ def generate_feedback_and_recommendations(analysis_results):
     Returns:
         tuple: A tuple containing two strings: feedback and recommendations.
     """
-    #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
-    # Initialize the text generation pipeline with GPT-2 (or you can use GPT-Neo if preferred)
+    
+    # Initializing the text generation pipeline with GPT-2
+    env = environ.Env()
+    environ.Env.read_env()
     tokenizer = AutoTokenizer.from_pretrained("gpt2")
     generator = pipeline("text-generation", model="gpt2", tokenizer=tokenizer) #model="EleutherAI/gpt-neo-1.3B")
-    # generator = pipeline("text-generation", 
-    #                 model="EleutherAI/gpt-neo-1.3B", 
-    #                 use_auth_token="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")
+    generator = pipeline("text-generation", 
+    model="EleutherAI/gpt-neo-1.3B", 
+    use_auth_token=env('AUTH_TOKEN'))
 
     # Construct the prompt for feedback
     feedback_prompt = (
