@@ -112,6 +112,14 @@ Once both the frontend and backend are running, you can access the application a
 4. **Wait for feedback**: Receive detailed feedback based on your video response, including NLP analysis and facial recognition insights.
 5. **Review & Improve**: Take actionable steps from the feedback to improve your interview performance.
 
+Below is a video demonstration of how MockSmart works
+
+
+
+https://github.com/user-attachments/assets/673d48f4-e0f4-42c9-9f86-214eb1597195
+
+
+
 ## API Documentation
 
 ### Endpoints
